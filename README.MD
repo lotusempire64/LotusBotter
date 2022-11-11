@@ -1,3 +1,6 @@
+## LOTUS BOTTER 
+A Youtube View Generator Writen In Python
+
 # 1.0 Instructions for Windows (.exe / Windows Executable File)
 
  - Download the ".exe" variant of the program.
